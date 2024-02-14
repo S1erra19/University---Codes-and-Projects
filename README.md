@@ -12,13 +12,13 @@ This repository is created to make it more accessible for students who will take
 
 
 
-#### If you want to contribute to this repository, or if you have something to tell me, please contact me.
+##### If you want to contribute to this repository, or if you have something to tell me, please contact me.
   - SuleymanovSuleyman@proton.me
   - [Telegram](t.me/Sierra5373)
 
 
 
-"I wish you all good lessons and good studies 👋"
+I wish you all good lessons and good studies 👋"
 
 
 
@@ -35,7 +35,7 @@ Bu repository **Bartın üniversitesi** algoritma dersinde önceki dönemlerde  
 
 
 
-#### Bu repository'a katkıda bulunmak istiyorsanız ya da bana bildirmek istediğiniz bir şey varsa bu adresler üzerinden benimle iletişime geçin.
+###### Bu repository'a katkıda bulunmak istiyorsanız ya da bana bildirmek istediğiniz bir şey varsa bu adresler üzerinden benimle iletişime geçin.
   - SuleymanovSuleyman@proton.me
   - [Telegram](t.me/Sierra5373)
 
